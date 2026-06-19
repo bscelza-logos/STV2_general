@@ -21,7 +21,6 @@
         "block/veml6040.ts",
         "block/joystick.ts",
         "block/line.ts",
-        "block/cantidad.ts",
         "block/pins.ts",
         "README.md"
     ],
